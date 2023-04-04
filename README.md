@@ -1,0 +1,2 @@
+# factorypattern
+templated factory pattern
